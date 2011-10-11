@@ -1,0 +1,1 @@
+This project is to make an efficient mandelbrot set visualizer in C#
